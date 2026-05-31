@@ -43,20 +43,35 @@ python client/client.py
 ```
 ## Print dos testes
 **Rodando o servidor**
+
 ![Servidor](Imagens/Servidor.png)
+
 **Teste de credenciais**
+
 ![Credenciais](Imagens/credenciais.jpeg)
+
 **Envio de mensagem**
+
 ![Mensagem enviada](Imagens/mensagemenviada.jpeg)
+
 **Visualização de mensagem**
+
 ![Ver mensagens](Imagens/vermensagens.jpeg)
+
 **Usuário sem mensagem**
+
 ![Sem mensagens](Imagens/semmensagens.png)
+
 **Visualização de mensagens pelo Admin**
+
 ![Mensagens admin](Imagens/mensagensadmin.png)
+
 **Mensagens salvas no banco de dados**
+
 ![Banco](Imagens/Banco.png)
+
 **Criptografia das mensagens no banco de dados**
+
 ![Criptografia](Imagens/criptografia.png)
 
 

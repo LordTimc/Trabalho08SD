@@ -42,21 +42,22 @@ Em outro terminal, inicie o cliente (Notebook B), e repita o comando acima.
 python client/client.py
 ```
 ## Print dos testes
-
-A seguir estão as imagens disponíveis na pasta `Imagens`. Você pode ajustar a ordem depois conforme necessário.
-
-![Banco](Imagens/Banco.png)
-
+**Rodando o servidor**
+![Servidor](Imagens/Servidor.png)
+**Teste de credenciais**
 ![Credenciais](Imagens/credenciais.jpeg)
-
+**Envio de mensagem**
+![Mensagem enviada](Imagens/mensagemenviada.jpeg)
+**Visualização de mensagem**
+![Ver mensagens](Imagens/vermensagens.jpeg)
+**Usuário sem mensagem**
+![Sem mensagens](Imagens/semmensagens.png)
+**Visualização de mensagens pelo Admin**
+![Mensagens admin](Imagens/mensagensadmin.png)
+**Mensagens salvas no banco de dados**
+![Banco](Imagens/Banco.png)
+**Criptografia das mensagens no banco de dados**
 ![Criptografia](Imagens/criptografia.png)
 
-![Mensagem enviada](Imagens/mensagemenviada.jpeg)
 
-![Mensagens admin](Imagens/mensagensadmin.png)
 
-![Sem mensagens](Imagens/semmensagens.png)
-
-![Servidor](Imagens/Servidor.png)
-
-![Ver mensagens](Imagens/vermensagens.jpeg)

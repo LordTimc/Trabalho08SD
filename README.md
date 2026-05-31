@@ -14,28 +14,30 @@ Este sistema consiste em um servidor centralizado (Flask) e clientes interativos
    python -m venv venv
    source venv/bin/activate  # No Linux/Mac
    # venv\Scripts\activate   # No Windows
+   ```
 
 3. Instale as dependências:
-
+```bash
 pip install -r requirements.txt
-
+```
 Passo a Passo de Execução
 Inicialize o banco de dados (Cria o arquivo mensagens.db e usuários padrão: admin, alice, bob):
-
+```bash
 python server/database.py
-
+```
 
 
 Inicie o servidor:
-
+```bash
 python server/server.py
-
+```
 
 Em um novo terminal, inicie o cliente (Notebook A):
-
+```bash
 python client/client.py
-
+```
 
 Em outro terminal, inicie o cliente (Notebook B), e repita o comando acima.
-
+```bash
 python client/client.py
+```

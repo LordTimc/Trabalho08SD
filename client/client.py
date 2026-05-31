@@ -2,7 +2,8 @@ import requests
 import json
 from cryptography.fernet import Fernet
 
-BASE_URL = 'http://127.0.0.1:5000'
+
+BASE_URL = 'http://192.168.1.15:5000'
 SHARED_KEY = b'G_F8A6oT8p_P7fXv9KxR_uUqI5mN0eA3_T1bC2yL9w8='
 cipher_suite = Fernet(SHARED_KEY)
 

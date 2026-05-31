@@ -41,3 +41,4 @@ Em outro terminal, inicie o cliente (Notebook B), e repita o comando acima.
 ```bash
 python client/client.py
 ```
+## Print dos testes

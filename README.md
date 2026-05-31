@@ -51,12 +51,12 @@ A seguir estão as imagens disponíveis na pasta `Imagens`. Você pode ajustar a
 
 ![Criptografia](Imagens/criptografia.png)
 
-![Mensagem enviada](Imagens/mensagem enviada.jpeg)
+![Mensagem enviada](Imagens/mensagemenviada.jpeg)
 
-![Mensagens admin](Imagens/mensagens admin.png)
+![Mensagens admin](Imagens/mensagensadmin.png)
 
-![Sem mensagens](Imagens/sem mensagens.png)
+![Sem mensagens](Imagens/semmensagens.png)
 
 ![Servidor](Imagens/Servidor.png)
 
-![Ver mensagens](Imagens/ver mensagens.jpeg)
+![Ver mensagens](Imagens/vermensagens.jpeg)
